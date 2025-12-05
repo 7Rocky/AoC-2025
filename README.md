@@ -19,3 +19,6 @@ make test
 | ---------------- | ----------------------- | ------------------------------ |:----------------:|
 | [Day 01](day_01) | Secret Entrance         | :star::star:                   | :rage:           |
 | [Day 02](day_02) | Gift Shop               | :star:                         | :blue_heart:     |
+| [Day 03](day_03) | Lobby                   | :star::star:                   | :star_struck:    |
+| [Day 04](day_04) | Printing Department     | :star:                         | :shrug:          |
+| [Day 05](day_05) | Cafeteria               | :star::star::star:             | :blue_heart:     |
