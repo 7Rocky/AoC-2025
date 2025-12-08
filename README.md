@@ -23,4 +23,5 @@ make test
 | [Day 04](day_04) | Printing Department     | :star:                         | :shrug:          |
 | [Day 05](day_05) | Cafeteria               | :star::star::star:             | :blue_heart:     |
 | [Day 06](day_06) | Trash Compactor         | :star::star:                   | :shrug:          |
-| [Day 07](day_07) | Labotaroty              | :star::star::star:             | :star_struck:    |
+| [Day 07](day_07) | Laboratory              | :star::star::star:             | :star_struck:    |
+| [Day 08](day_08) | Playground              | :star::star::star:             | :blue_heart:     |
