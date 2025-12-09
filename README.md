@@ -25,3 +25,4 @@ make test
 | [Day 06](day_06) | Trash Compactor         | :star::star:                   | :shrug:          |
 | [Day 07](day_07) | Laboratory              | :star::star::star:             | :star_struck:    |
 | [Day 08](day_08) | Playground              | :star::star::star:             | :blue_heart:     |
+| [Day 09](day_09) | Movie Theater           | :star::star::star::star:       | :star_struck:    |
