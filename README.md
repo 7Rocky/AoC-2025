@@ -26,3 +26,4 @@ make test
 | [Day 07](day_07) | Laboratory              | :star::star::star:             | :star_struck:    |
 | [Day 08](day_08) | Playground              | :star::star::star:             | :blue_heart:     |
 | [Day 09](day_09) | Movie Theater           | :star::star::star::star:       | :star_struck:    |
+| [Day 10](day_10) | Factory                 | :star::star::star::star::star: | :blue_heart:     |
