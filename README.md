@@ -27,3 +27,5 @@ make test
 | [Day 08](day_08) | Playground              | :star::star::star:             | :blue_heart:     |
 | [Day 09](day_09) | Movie Theater           | :star::star::star::star:       | :star_struck:    |
 | [Day 10](day_10) | Factory                 | :star::star::star::star::star: | :blue_heart:     |
+| [Day 11](day_11) | Reactor                 | :star::star::star:             | :blue_heart:     |
+| [Day 12](day_12) | Christmas Tree Farm     | :star::star::star:             | :raised_eyebrow: |
